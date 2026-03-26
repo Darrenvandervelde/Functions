@@ -1,3 +1,3 @@
 # Functions
 ---
-* [Debug_Model](https://github.com/Darrenvandervelde/Functions/Models/Debug_Model.js)
+* [Debug_Model](https://github.com/Darrenvandervelde/Functions/blob/main/Models/Debug_Model.js)
